@@ -1,0 +1,15 @@
+{
+    "description": "Home Server Cloudflare Tunnel",
+    "domain": "is-local.org",
+    "subdomain": "diegel",
+
+    "owner": {
+        "repo": "https://github.com/EDMuenster/register/",
+        "email": "184496247+EDMuenster@users.noreply.github.com"
+    },
+
+    "record": {
+        "NS": ["harvey.ns.cloudflare.com", "maleah.ns.cloudflare.com"]
+    },
+    "proxied": false
+}
